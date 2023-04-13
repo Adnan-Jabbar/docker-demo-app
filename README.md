@@ -59,9 +59,5 @@ Step 5: access the nodejs application from browser
 
 _The dot "." at the end of the command denotes location of the Dockerfile._
 
-<a href="#Portfolio"><g-emoji class="g-emoji" alias="arrow_up_small" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f53c.png">🔼</g-emoji> Back to top</a>
-
-
-
 
 
